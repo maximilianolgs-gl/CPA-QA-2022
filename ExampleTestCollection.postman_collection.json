@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "1ac9bd6e-0fa9-4ba5-86b2-bd2cc43fc555",
+		"name": "ExampleTestCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test_200",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Test_404",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
